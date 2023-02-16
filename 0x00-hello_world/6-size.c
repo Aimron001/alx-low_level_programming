@@ -1,6 +1,7 @@
 #include <stdio.h>
 /*
- * using printf
+ * main -prints the size of various types
+ *return - 0 (success
  */
 int main(void)
 {
