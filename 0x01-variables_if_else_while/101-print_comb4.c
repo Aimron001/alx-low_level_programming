@@ -12,9 +12,11 @@ int main(void)
 	while (k < 10)
 	{
 		j = 0;
+
 		while (j < 10)
 		{
 			i = 0;
+
 			while (i < 10)
 			{
 				if (i != j && j != k && k < j && j < i)
