@@ -4,7 +4,7 @@
  * @filename: name of the file to be edited
  * @text_content: text to be appended to end of the file.
  * Return: 1 on success
- * 	-1 on failure
+ *-1 on failure
  */
 int append_text_to_file(const char *filename, char *text_content)
 {
