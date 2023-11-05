@@ -1,4 +1,4 @@
-#include "main.h"
+#include "search_algos.h"
 
 /**
  * jump_list - searches for a value
