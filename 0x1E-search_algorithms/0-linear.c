@@ -1,4 +1,4 @@
-#include "search_algos.h"
+#include "main.h"
 
 /**
  * linear_search - Function that searches for a value in an
